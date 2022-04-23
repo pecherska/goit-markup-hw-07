@@ -1,0 +1,94 @@
+
+
+.section.work {
+  padding-top: 0;
+}
+
+
+
+/* Преимущества, Команда */
+
+
+.title {
+  color: var(--title-text-color);
+
+  font-weight: 700;
+  line-height: 1.14;
+  font-size: 14px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* Чем занимается команда */
+
+
+
+
+  /* Команда */
+
+
+
+/* Кнопки */
+.button {
+  display: inline-block;
+
+  min-width: 200px;
+  padding: 10px 32px;
+  border-radius: 4px;
+  border: transparent;
+}
+
+
+/* Футер */
+
+
+
+/* Фильтр  */
+
+
+
+/* Icons */
+
+
+
+
+
+/* Иконки преимуществ  */
+
+
+
+
+
+/* .social-list-item {
+  justify-content: center;
+  margin-top: 16px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+} */
+
+
+/* Иконки футера */
+.icon-logo {
+  width: 20px;
+  height: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
