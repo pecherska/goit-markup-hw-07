@@ -615,6 +615,20 @@ img {
   font-style: normal;
 }
 
+.footer__contact--mail {
+  color: rgba(255, 255, 255, 0.6);
+  text-decoration: none;
+  margin-bottom: 9px;
+  display: block;
+}
+
+.footer__contact--tel {
+  color: rgba(255, 255, 255, 0.6);
+  text-decoration: none;
+  margin-bottom: 0px;
+  display: block;
+}
+
 .footer {
   background-color: var(--bg-color-footer);
   padding-top: 60px;
