@@ -17,6 +17,8 @@
   --bg-color-primary: #e5e5e5;
   --bg-color-secondar: #f5f4fa;
   --timing-func: cubic-bezier(0.4, 0, 0.2, 1);
+  --main-font: "Roboto",sans-serif;
+  --logo-font: "Raleway",sans-serif;
 }
 
 /*Common stylys*/
@@ -44,7 +46,7 @@ h6 {
 body {
   color: var(--primary-text-color);
   background-color: var(--primary-white-color);
-  font-family: "Roboto", sans-serif;
+  font-family: var(--main-font);
   font-weight: 400;
   letter-spacing: 0.03em;
   font-size: 14px;
@@ -209,7 +211,7 @@ img {
 
 /* Logo */
 .logo {
-  font-family: Raleway, sans-serif;
+  font-family: var(--logo-font);
   font-weight: 400;
   font-size: 26px;
   line-height: 1.2;
